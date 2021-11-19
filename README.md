@@ -31,5 +31,6 @@ void init_database (database_t* ptr) {
 4. High performace (sorting data continously using sort module functions)
 ### Future Improvements
 1. Multiple Database instances at same time
-2. Optimize memory consumption
+2. Add 'delete' feature (delete record)  
+3. Optimize memory consumption
 
